@@ -4,4 +4,4 @@ This repo includes documents that will assist students with their work in variou
 
 ## List of Documents
 
-- [GitHub Classroom and Lab Assignments](https://github.com/belgort-clark/ctec-class-docs/blob/master/github-classroom-assignments-labs.md)
+- [GitHub Classroom: Accessing Assignments and Labs](https://github.com/belgort-clark/ctec-class-docs/blob/master/github-classroom-assignments-labs.md)
