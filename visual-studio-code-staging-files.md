@@ -1,4 +1,4 @@
-# Visual Studio Code: Staging Files in Visual Studio Code
+# Visual Studio Code: Staging Files and Performing a Commit in Visual Studio Code
 
 ## Staging Files
 
@@ -21,4 +21,4 @@
 5. To do this bring up the command palette in Visual Studio Code (Control+Shift+P on PC and Command+Shift+P on Mac).
 6. Type in **git push** and then press enter.
 7. Your files will then be pushed back to GitHub.
-8. Login to GitHub and make sure you can see that changes that you committed. 
+8. Login to GitHub and make sure you can see that changes that you committed.

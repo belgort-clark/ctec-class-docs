@@ -5,3 +5,4 @@ This repo includes documents that will assist students with their work in variou
 ## List of Documents
 
 - [GitHub Classroom: Accessing Assignments and Labs](https://github.com/belgort-clark/ctec-class-docs/blob/master/github-classroom-assignments-labs.md)
+- [Visual Studio Code: Staging Files and Performing a Commit in Visual Studio Code](https://github.com/belgort-clark/ctec-class-docs/blob/master/visual-studio-code-staging-files.md)
