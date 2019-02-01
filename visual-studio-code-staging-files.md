@@ -1,4 +1,4 @@
-# Visual Studio Code: Staging Files and Performing a Commit in Visual Studio Code
+# Visual Studio Code: Staging Files and Committing Your Changes
 
 ## Staging Files
 
