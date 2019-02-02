@@ -11,7 +11,7 @@
 
 1. Launch **Visual Studio Code**.
 2. Open the **command palette** (Control+Shift+P on PC and Command+Shift+P on Mac).
-3. Type in **git clone. Visual Studio's** typeahead feature will try and help you out as you start typing. Once you found **git clone**, press the enter key.
+3. Type in **git clone. Visual Studio's** typeahead feature will try and help you out as you start typing. Once you find **git clone**, press the enter key.
 4. Now paste in the URL of your **repository** and then press enter.
 5. **Visual Studio Code** will now ask you to **choose a location** for your repository. Select a location. **Note**: Choose your location carefully.
 6. **Visual Studio Code** will then **clone the repository down** from **GitHub Classroom** to your computer. It will also ask you in the lower hand corner of **VS Code** if you want to **open the repository** so you can begin working on it. Open it up and start your work.

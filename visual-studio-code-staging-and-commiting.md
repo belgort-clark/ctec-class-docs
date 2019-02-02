@@ -5,7 +5,7 @@
 1. **Git** will keep track of files that get modified, added, or deleted to your **local repository** on your computer.
 2. Before you can **commit** and **push** your work back to **GitHub** you will first need to **stage** the files that you want to become part of the **commit**.
 3. Start by opening the Visual Studio Code **Source Control** pane in the sidebar. It's the icon that looks like a **tuning fork** or the **letter Y**.
-4. You will see a **list of files** that **Git** has identified. Next to each file you will see either the letter **U** or **M**. **U** is for updated and **M** for modified.
+4. You will see a **list of files** that **Git** has identified. Next to each file you will see either the letter **U**, **M** or **D**. **U** is for updated and **M** for modified and **D** for deleted.
 5. You will now need to **stage** the files that you want to become part of your **commit**.
 6. To stage a file hover your mouse over the file and then click the **+** sign.
 7. The file will then move to the **Stage Changes** section within **Visual Studio Code**.
